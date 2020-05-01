@@ -32,4 +32,4 @@ sleep 1
 sleep 1
 echo -e $lightgreen"[✓] attack fb  $name sukses"
 sleep 1
-echo "password nya adalah samahkkmd @#771"
+echo "password nya adalah $name @#771"
